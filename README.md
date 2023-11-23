@@ -10,6 +10,12 @@ Augusto Preis Tomasi <br>
 ### Professor Orientador
 Joel Barbosa Panchyniak
 
+### Ordenação de Algorítimos
+1.	Bubble Sort;
+2.	Insertion Sort;
+3.	Merge Sort;
+4.	Quick Sort.
+
 ### Algoritmo de Prim
 O algoritmo de Prim é um algoritmo guloso (greedy) utilizado para encontrar a Árvore de Abrangência Mínima (Minimum Spanning Tree - MST) em um grafo ponderado, onde o objetivo é encontrar uma subárvore que inclua todos os vértices do grafo original, conectando-os com o menor custo total possível.
 
